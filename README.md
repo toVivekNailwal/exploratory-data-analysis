@@ -51,7 +51,7 @@ It uncovers **content trends, genre patterns, audience insights, and business re
 
 ## 🛠️ Tech Stack  
 - **Language:** Python  
-- **Libraries:** Pandas | NumPy | Matplotlib | Seaborn | Plotly | WordCloud  
+- **Libraries:** Pandas | NumPy | Matplotlib | Seaborn |
 
 ---
 
@@ -65,12 +65,8 @@ It uncovers **content trends, genre patterns, audience insights, and business re
 ## 🚀 Future Work  
 - Sentiment analysis of titles/descriptions  
 - ML models for predicting content success  
-- Interactive dashboard using **Tableau / Power BI**  
+- Interactive dashboard using **Tableau**  
 
----
-
-## 📷 Sample Visuals  
-_Add screenshots of plots here (genre distribution, wordcloud, country map, etc.)_  
 
 ---
 
@@ -80,11 +76,6 @@ Contributions are welcome!
 - Create a feature branch  
 - Commit your changes  
 - Submit a pull request 🚀  
-
----
-
-## 📜 License  
-This project is licensed under the **MIT License**.  
 
 ---
 
